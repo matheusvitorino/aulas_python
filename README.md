@@ -17,7 +17,7 @@ Este repositório contém exercícios de lógica de programação que estou dese
 01-soma.py → programa que soma dois números
 02-desconto.py → cálculo de desconto de produto
 03-celsius.py → conversão de Celsius para Fahrenheit
-04-dollar.py → conversão de reais para dólares
+04-dollar.py → conversão de dólares para reais
 05-idade.py → cálculo da idade com base no ano de nascimento
 06-habilitação.py → verificação se a pessoa pode tirar habilitação
 07-centimetros.py → conversão de metros para centímetros
@@ -31,3 +31,6 @@ Este repositório contém exercícios de lógica de programação que estou dese
 15-horas.py → cálculo de horas trabalhadas
 16-compararnumeros.py → comparação entre dois números
 17-imc.py → cálculo do índice de massa corporal (IMC)
+
+Autor: Matheus Vitorino
+Estudante de Desenvolvimento de Sistemas
